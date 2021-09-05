@@ -1,0 +1,71 @@
+msgid "hour"
+msgstr "horas"
+
+msgid "minutes"
+msgstr "minutos"
+
+msgid "sun"
+msgstr "Dom"
+
+msgid "mon"
+msgstr "Lun"
+
+msgid "tue"
+msgstr "Mar"
+
+msgid "wed"
+msgstr "Mie"
+
+msgid "thu"
+msgstr "Jue"
+
+msgid "fri"
+msgstr "Vie"
+
+msgid "sat"
+msgstr "Sab"
+
+msgid "jan"
+msgstr "Ene"
+
+msgid "feb"
+msgstr "Feb"
+
+msgid "mar"
+msgstr "Mar"
+
+msgid "apr"
+msgstr "Abr"
+
+msgid "may"
+msgstr "May"
+
+msgid "jun"
+msgstr "Jun"
+
+msgid "jul"
+msgstr "Jul"
+
+msgid "aug"
+msgstr "Ago"
+
+msgid "sep"
+msgstr "Sept"
+
+msgid "oct"
+msgstr "Oct"
+
+msgid "nov"
+msgstr "Nov"
+
+msgid "dec"
+msgstr "Dic
+
+
+
+
+
+
+
+
+"
